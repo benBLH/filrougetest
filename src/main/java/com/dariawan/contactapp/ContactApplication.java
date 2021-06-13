@@ -1,5 +1,5 @@
 /**
- * Spring Boot + Thymeleaf Example (https://www.dariawan.com)
+ * Spring BootSSS + Thymeleaf Example (https://www.dariawan.com)
  * Copyright (C) 2019 Dariawan <hello@dariawan.com>
  *
  * Creative Commons Attribution-ShareAlike 4.0 International License
